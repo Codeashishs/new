@@ -1,0 +1,6 @@
+{
+  "name": "Gown Scout",
+  "description": "Bridal gown discovery, fitting appointment booking, boutique management dashboard, and scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
